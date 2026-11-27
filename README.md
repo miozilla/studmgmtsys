@@ -4,7 +4,7 @@ studmgmtsys : | Student Management System | C#, .NET Console Application, OOP, I
 
 ## Objectives
 - Build & demo a C# fundamentals code
-- Familiarize with Software Engineering Basics
+- Familiarize with Software Engineering Basics (.net environment)
 
 
 ## Student Management System
