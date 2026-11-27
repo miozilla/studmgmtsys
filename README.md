@@ -9,12 +9,12 @@ studmgmtsys : | Student Management System | C#, .NET Console Application, OOP, I
 
 ## Student Management System
 
-![studmtmgsys001.png](./media/studmtmgsys001.png)
+![studmgmtsys001.png](./media/studmgmtsys001.png)
 
-![studmtmgsys002.png](./media/studmtmgsys002.png)
+![studmgmtsys002.png](./media/studmgmtsys002.png)
 
-![studmtmgsys003.png](./media/studmtmgsys003.png)
+![studmgmtsys003.png](./media/studmgmtsys003.png)
 
-![studmtmgsys004.png](./media/studmtmgsys004.png)
+![studmgmtsys004.png](./media/studmgmtsys004.png)
 
-![studmtmgsys005.png](./media/studmtmgsys005.png)
+![studmgmtsys005.png](./media/studmgmtsys005.png)
